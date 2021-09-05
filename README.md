@@ -1,6 +1,5 @@
 # TCC-TDAH
-Posteriormente irei disponibilizar o código neste repositório.
---- 
+(Posteriormente irei disponibilizar o código neste repositório).
 
 Este aplicativo foi usado para o trabalho de conclusão de curso do IFMS dos estudantes: Diego Moraes (@diegovskrbm) e Geovanna Nascimento (@geordtl).
 
