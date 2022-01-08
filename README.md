@@ -1,6 +1,6 @@
-# TCC-TDAH
-
 <img height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/1471/1471735.png"> 
+
+# TCC-TDAH
 
 Este aplicativo foi usado para o trabalho de conclusão de curso do IFMS dos estudantes: Diego Moraes (@diegovskrbm) e Geovanna Nascimento (@geordtl).
 
