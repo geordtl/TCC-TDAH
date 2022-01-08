@@ -6,4 +6,4 @@ Este aplicativo foi usado para o trabalho de conclusão de curso do IFMS dos est
 
 O trabalho consiste em um aplicativo com a didática de um jogo para auxiliar crianças na alfabetização, especialmente crianças com Transtorno do Défict de Atenção com Hiperatividade (TDAH).
 
-(Posteriormente irei disponibilizar o código neste repositório).
+Visualizar código: https://github.com/Diegovsk/TCC_TDAH
